@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a small Project<br>🌱 I’m currently learning<br>💬 Ask me about PHP<br>⚡ Fun fact I Studied at Bali State Polytechnic 
+🔭 I’m currently working on a small Project<br>🌱 I’m currently learning PHP and JavaScriptsbr>💬 Ask me about PHP<br>⚡ Fun fact I Studied at Bali State Polytechnic 
 
 
 ## 🌐 Socials:
